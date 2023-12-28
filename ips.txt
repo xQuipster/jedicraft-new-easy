@@ -2,4 +2,3 @@ mc846131.fmcs.cloud
 jedicraftneweasy.enderman.cloud
 scorpion.de.freemcserver.net:26152
 168.119.141.111:26152
-localhost
